@@ -104,3 +104,10 @@ O modelo Linear Regression apresentou o melhor desempenho para previsão de rece
 - Matplotlib, Seaborn
 - Scikit-learn (LinearRegression, RandomForestRegressor, GradientBoostingRegressor)
 - KaggleHub (para download do dataset)
+
+---
+
+## Links
+
+- Repositório GitHub: [Projeto Olist](https://github.com/JennyDuda/Projeto-Olist)  
+- LinkedIn: [Jennifer Freitas Mendes](https://www.linkedin.com/in/jennifer-freitas-mendes)
